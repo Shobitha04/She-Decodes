@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfDefenseVR", "Assembly-CSharp.csproj", "{C6F7A50E-3729-DE33-B628-4E9A278296B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfDefenseVR", "Assembly-CSharp-Editor.csproj", "{FDA2B544-3DEB-EE25-64E6-017D81626011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F7A50E-3729-DE33-B628-4E9A278296B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F7A50E-3729-DE33-B628-4E9A278296B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F7A50E-3729-DE33-B628-4E9A278296B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F7A50E-3729-DE33-B628-4E9A278296B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA2B544-3DEB-EE25-64E6-017D81626011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA2B544-3DEB-EE25-64E6-017D81626011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA2B544-3DEB-EE25-64E6-017D81626011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA2B544-3DEB-EE25-64E6-017D81626011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
